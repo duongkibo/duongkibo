@@ -51,7 +51,7 @@ Read my articles on **[Medium](https://medium.com/@duongkibo)** and slide decks 
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoàng-blue?logo=linkedin)](https://linkedin.com/in/duongkibo) 
-[![Email](https://img.shields.io/badge/Gmail-duongkibo%40gmail.com-red?logo=gmail)](mailto:duongkibo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dương-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-d%C6%B0%C6%A1ng-394a6625b/) 
+[![Email](https://img.shields.io/badge/Gmail-tranhungduong.kma.ict%40gmail.com-red?logo=gmail)](mailto:tranhungduong.kma.ict@gmail.com)
 
 > *Build something awesome together!* 🚀
